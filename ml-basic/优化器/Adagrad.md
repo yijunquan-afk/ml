@@ -1,5 +1,7 @@
 # AdaGrad 优化器
 
+Adaptive Subgradient Methods for Online Learning and Stochastic Optimization-2011
+
 ## 背景与动机
 AdaGrad（Adaptive Gradient Algorithm）是一种自适应学习率的优化算法，由 Jeffrey Dean 等人在 2011 年提出。它旨在解决传统梯度下降方法（如 SGD）中固定学习率的局限性，尤其是在处理稀疏数据时表现出色。
 
